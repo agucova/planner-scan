@@ -1,0 +1,338 @@
+{
+    "(N338) Ingeniería Hidráulica y Ambiental Vs.01 (Desde admisión 2020)": {
+        "19.1 Mínimos": [
+            "ICH1104",
+            "ICH2204",
+            "ICH2114",
+            "ICH2304",
+            "ICH2314"
+        ],
+        "19.3 Optativos Complementarios (b)": [
+            "ICM2223",
+            "IIQ2363",
+            "ICH2604",
+            "ICH2613",
+            "ICE2623",
+            "GEO202"
+        ]
+    },
+    "(N776) Programación Vs.01": {
+        "19.1 Mínimos": [
+            "IIC1253",
+            "IIC2133",
+            "IIC2143",
+            "IIC2233",
+            "IIC2413"
+        ],
+        "19.3 Optativos Complementarios (b)": [
+            "IIC2343",
+            "IIC2713",
+            "IIC2513",
+            "IIC2613",
+            "IIC2333",
+            "IIC2283"
+        ]
+    },
+    "(N207) Tecnologías de la Información Vs.01": {
+        "19.1 Mínimo": [
+            "IIC2233",
+            "IIC2413",
+            "IIC2733",
+            "IIC2764",
+            "IIC2713"
+        ],
+        "19.3 Optativos Complementarios (b)": [
+            "IIC2513",
+            "IIC2433",
+            "IIC2613",
+            "IIC2985",
+            "IIC2986",
+            "IIC2987"
+        ]
+    },
+    "(N346) Ingeniería Estructural Vs.02 (Desde admisión 2020)": {
+        "19.1 Mínimos": [
+            "ICE2114",
+            "ICE2313",
+            "ICE2006",
+            "ICC2105",
+            "ICE2413",
+            "ICE2533",
+            "ICC2454"
+        ],
+        "19.3 Optativos Complementarios (b)": [
+            "ICE2413",
+            "ICE2533",
+            "ICC2454",
+            "ICE2703"
+        ]
+    },
+    "(N345) Ingeniería Geotécnica Vs.02 (Desde admisión 2020)": {
+        "19.1 Mínimos": [
+            "ICE2623",
+            "ICE2630",
+            "ICE2633"
+        ],
+        "19.3 Optativos Complementarios (b)": [
+            "ICE2614",
+            "ICE2630",
+            "ICE3653"
+        ],
+        "19.2 Cursos Área": []
+    },
+    "(N202) Área Recursos Geológicos Vs.01": {
+        "Sin categoría": [
+            "ICE2640",
+            "ICH2204",
+            "ICH2214",
+            "ICH2114",
+            "IMM2213",
+            "ICE2643",
+            "ICE2028"
+        ]
+    },
+    "(N203) Área Peligros Geológicos Vs.01": {
+        "Sin categoría": [
+            "ICE2029",
+            "GEO202",
+            "GEO612",
+            "GEO3086",
+            "ICE2135",
+            "ICE2643",
+            "GEO2910"
+        ]
+    },
+    "(N678) Ingeniería Mecánica Vs.01": {
+        "19.1 Mínimos": [
+            "ICM2403",
+            "ICE2313",
+            "ICM2022",
+            "ICM2223"
+        ],
+        "19.3 Optativos Complementarios (b)": [
+            "ICM2213",
+            "ICM2503",
+            "ICM2803",
+            "ICM2985"
+        ]
+    },
+    "(N289) Ingeniería Minera Vs.01 (Desde admisión 2019)": {
+        "19.1 Mínimos": [
+            "IMM2013",
+            "IMM2023",
+            "IMM2043",
+            "IMM2003",
+            "ICE2623"
+        ],
+        "19.2 Optativos Elegir 10 cr entre (b):": [
+            "IMM2033",
+            "IMM2053",
+            "IMM2073",
+            "IMM2985",
+            "IMM2986",
+            "IMM2987"
+        ]
+    },
+    "(N200) Ingeniería Industrial  Vs.01": {
+        "19.1 Mínimos": [
+            "ICS113H",
+            "ICS2123",
+            "ICS2523",
+            "ICS2613",
+            "ICS2813"
+        ],
+        "19.3 Optativos Complementarios (b)": [
+            "ICS2121",
+            "ICS2133",
+            "ICS2562",
+            "ICS2803",
+            "IIC2115"
+        ]
+    },
+    "(N229) Ingeniería Química Vs.02 (Desde admisión 2018)": {
+        "19.1 Mínimos": [
+            "QIM106A",
+            "IIQ2003",
+            "IIQ2043",
+            "IIQ2133",
+            "QIM200"
+        ],
+        "19.3 Optativos Complementarios (b)": [
+            "IIQ2013",
+            "IIQ2023"
+        ]
+    },
+    "(N235) Fundamentos de Ingeniería Biológica Vs.02  (Desde admisión 2018)": {
+        "19.1 Mínimos": [
+            "BIO141C",
+            "BIO151E",
+            "IIQ2663",
+            "IIQ2693",
+            "QIM200"
+        ],
+        "19.3 Optativos Complementarios (b)": [
+            "BIO228C",
+            "BIO297C",
+            "IIQ2133",
+            "IIQ2043"
+        ]
+    },
+    "(N682) Sistemas de Transporte Vs.01": {
+        "19.1 Mínimos": [
+            "ICS1113",
+            "ICT2233",
+            "ICT2904"
+        ],
+        "19.2 Optativos (b)": [
+            "ICT2213",
+            "ICT2223",
+            "ICT2303",
+            "ICT3443",
+            "ICT2985",
+            "ICT2986",
+            "ICT2987",
+            "IIC2115"
+        ]
+    },
+    "(N730) Externalidades de Transporte Vs.01 (c)": {
+        "19.1 Mínimos": [
+            "ICS1113",
+            "ICS2523",
+            "ICT2904",
+            "IIQ2343",
+            "ICT2253"
+        ],
+        "19.2 Optativos Complementarios (b)": [
+            "ICH2304",
+            "ICT2213",
+            "ICT2223",
+            "ICT2233",
+            "ICT2303",
+            "ICT3103",
+            "ICT3244",
+            "ICT2985",
+            "ICT2986",
+            "ICT2987",
+            "IIC2115"
+        ]
+    },
+    "(N201) Logística y Transporte de Carga Vs.01": {
+        "19.1 Mínimos": [
+            "ICS1113",
+            "ICS2123",
+            "ICT2233",
+            "ICT2904"
+        ],
+        "19.2 Optativos (b)": [
+            "ICS3223",
+            "ICS3723",
+            "ICT2443",
+            "ICT3443",
+            "ICT2303",
+            "ICT3463",
+            "ICT3352",
+            "ICT3454",
+            "ICT3464",
+            "ICT2985",
+            "ICT2986",
+            "ICT2987",
+            "IIC2115"
+        ]
+    },
+    "(N205) Matemáticas Aplicadas Vs.01": {
+        "19.1 Mínimos": [
+            "MAT2605",
+            "MAT251I"
+        ],
+        "19.2 Optativos": [
+            "EYP2114",
+            "EYP280I",
+            "ICS113H",
+            "IIC1253",
+            "IMT2111",
+            "IMT2112",
+            "IMT2113",
+            "IMT2115",
+            "MAT250I",
+            "MAT2205",
+            "MAT2305",
+            "MAT2415",
+            "MAT2545",
+            "MAT255I",
+            "MAT270I",
+            "MAT253I",
+            "MAT2615"
+        ]
+    },
+    "(N206) Ingeniería Matemática Vs.01": {
+        "19.1 Mínimos": [
+            "MAT2605",
+            "MAT251I",
+            "IIC1253",
+            "MAT253I",
+            "EYP2114",
+            "ICS113H",
+            "IIC2233",
+            "IMT2111",
+            "IMT2112",
+            "IMT2113",
+            "IMT2115",
+            "MAT255I",
+            "MAT2615"
+        ]
+    },
+    "(N344) Ingeniería Eléctrica Vs.02  (Desde admisión 2020)": {
+        "19.1 Mínimos": [
+            "IEE2103",
+            "IEE2123",
+            "IEE2713",
+            "IEE2613",
+            "IEE2XXX"
+        ],
+        "19.3 Optativos Complementarios (b)": [
+            "IEE2XXX"
+        ]
+    },
+    "(N231) Ingeniería de Construcción Vs.02 (Desde admisión 2018)": {
+        "19.1 Mínimos": [
+            "ICC2204",
+            "ICC2304"
+        ],
+        "19.2 Optativos Elegir 20 cr entre:": [
+            "ICE2006",
+            "ICE2313",
+            "ICE2604",
+            "ICC2424",
+            "ICC2514"
+        ],
+        "19.3 Optativos Complementarios (b)": [
+            "ICC2454",
+            "ICC2414",
+            "ICC2354",
+            "ICC3464",
+            "ICC3470",
+            "ICC2312",
+            "ICC2913"
+        ]
+    },
+    "(N242) Innovación Tecnológica Vs.01": {
+        "19.1 Mínimos": [
+            "IDI2031",
+            "ICS2031",
+            "Prototipado y Validación de Innovaciones Tecnológicas",
+            "Estrategia y Comercialización de Innovaciones",
+            "Tecnológicas",
+            "Financiamiento y Creación de Start-Ups",
+            "Vigilancia Tecnológica e Inteligencia Competitiva",
+            "Propiedad Intelectual y Transferencia Tecnológica",
+            "ICS2032",
+            "ING2031",
+            "DEM298"
+        ],
+        "19.2 Optativos, aprobar 10 cr. (e)": [
+            "Investigación o Proyecto",
+            "Trabajo Personal Dirigido(*)",
+            "Otro curso Tecnológico de Profundización"
+        ]
+    }
+}

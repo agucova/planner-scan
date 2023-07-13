@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "planner-scan"
+version = "0.1.0"
+description = ""
+authors = ["Agustín Covarrubias <agucova@uc.cl>"]
+readme = "README.md"
+packages = [{include = "planner_scan"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+unstructured = {extras = ["local-inference"], version = "^0.8.1"}
+nltk = "^3.8.1"
+pymupdf = "^1.22.5"
+pdfminer-six = "^20221105"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.24.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

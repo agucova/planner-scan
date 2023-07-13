@@ -1,0 +1,521 @@
+Departamento de Ingeniería Hidráulica y Ambiental
+(N338) Ingeniería Hidráulica y Ambiental Vs.01 (Desde admisión 2020)
+19.1 Mínimos
+ICH1104
+ICH2204
+ICH2114
+ICH2304
+ICH2314
+Mecánica de Fluidos
+Hidrología
+Ingeniería Hidráulica
+Ingeniería Ambiental
+Calidad del Agua
+19.3 Optativos Complementarios (b)
+ICM2223
+IIQ2363
+ICH2604
+ICH2613
+ICE2623
+GEO202
+Transferencia de Calor
+Residuos Sólidos y Peligrosos
+Principios de tratamiento de aguas
+CMD Cambio Climático: un Enfoque Multidisciplinario 
+Introducción a la Geología Física
+Sistemas de Información Geográfica 
+Departamento de Ciencias de la Computación
+(N776) Programación Vs.01
+19.1 Mínimos
+IIC1253
+IIC2133
+IIC2143
+IIC2233
+IIC2413
+Matemáticas Discretas
+Estructuras de Datos y Algoritmos
+Ingeniería de Software
+Programación Avanzada
+Bases de Datos
+19.3 Optativos Complementarios (b)
+IIC2343
+IIC2713
+IIC2513
+IIC2613
+IIC2333
+IIC2283
+Arquitectura de Computadores
+Sistemas de Información
+Tecnologías y Aplicaciones Web
+Inteligencia Artificial
+Sistemas Operativos y Redes
+Diseño y Análisis de Algoritmos
+(N207) Tecnologías de la Información Vs.01
+19.1 Mínimo
+IIC2233
+IIC2413
+IIC2733
+IIC2764
+IIC2713
+Programación Avanzada
+Bases de Datos
+Modelos de Procesos
+Conocimiento, Cultura y Tecnología
+Sistemas de Información
+19.3 Optativos Complementarios (b)
+IIC2513
+IIC2433
+IIC2613
+IIC2985
+IIC2986
+IIC2987
+Tecnologías y Aplicaciones Web
+Minería de Datos
+Inteligencia Artificial
+Investigación o Proyecto 
+Investigacion o Proyecto
+Investigación o Proyecto 
+Departamento de Ingeniería Estructural y Geotécnica
+Análisis Estructural I
+Mecánica de Sólidos
+Estática
+Materiales de Ingeniería Civil
+(N346) Ingeniería Estructural Vs.02 (Desde admisión 2020)
+19.1 Mínimos
+ICE2114
+ICE2313
+ICE2006
+ICC2105
+Elegir 10 cr entre:
+ICE2413
+ICE2533
+ICC2454
+Hormigón Armado
+Estructuras de Acero
+Diseño y Construccion en Madera
+19.3 Optativos Complementarios (b)
+ICE2413
+ICE2533
+ICC2454
+ICE2703
+Hormigón Armado
+Estructuras de Acero
+Diseño y Construccion en Madera
+Ingeniería Antisísmica
+(N345) Ingeniería Geotécnica Vs.02 (Desde admisión 2020)
+19.1 Mínimos
+ICE2313
+ICE2604
+ICE2623
+ICE2006
+ICC2105 Materiales de Ingeniería Civil
+Mecánica de Sólidos
+Fundamentos de Geotecnia
+Introducción a la Geología Física
+Estática
+19.3 Optativos Complementarios (b)
+Mecánica de Suelos
+Geofísica General
+Mecánica de Rocas
+ICE2614
+ICE2630
+ICE3653
+Geociencias Vs.01
+19.1 Mínimos
+ICE2623
+ICE2630
+ICE2633
+19.2 Cursos Área
+Introducción a la Geología Física
+Geofísica General
+Geología Estructural y Tectónica
+Fundamentos de la Economía de Minerales
+Recursos y Exploración Geológica
+(N202) Área Recursos Geológicos Vs.01
+Mínimo
+ICE2640
+Elegir 10 cr entre (b):
+ICH1104 Mecánica de Fluidos
+ICH2204
+Hidrología
+ICH2214
+Agua Subterránea
+ICH2114
+Ingeniería Hidráulica
+IMM2033 Geoestadística
+IMM2213
+IMM2013 Minería a Cielo Abierto
+IMM2043 Minería Subterránea
+ICE2643
+Métodos Geofísicos para Ingeniería
+ICE2028
+Mineralogía y Petrología
+(N203) Área Peligros Geológicos Vs.01
+Mínimo
+ICE2029
+Elegir 10 cr entre (b):
+GEO202
+GEO612
+GEO3086
+ICE2135
+ICE2643
+GEO2910
+Procesos Superficiales y Peligros Geológicos
+Sistemas de Información Geográfica 
+El Desierto de Atacama, Pasado, Presente y Futuro
+Principios de Volcanología
+Métodos Numéricos en Ingeniería
+Métodos Geofísicos para Ingeniería
+Riesgo de Tsunami
+50 cr.
+(N678) Ingeniería Mecánica Vs.01
+19.1 Mínimos
+10 Departamento de Ingeniería Mecánica y Metalúrgica
+ING1024 o Propiedades y Resistencia de Materiales
+ICM2403
+Ciencia de los Materiales
+ICM2028 o Mecánica de Materiales
+ICE2313
+ICM2022
+ICH1104 Mecánica de Fluidos
+ICM2223
+Mecánica de Sólidos
+Diseño Mecánico
+Transferencia de Calor
+19.3 Optativos Complementarios (b)
+ICM2213
+ICM2503
+ICM2803
+ICM2985
+Conversión de Energía
+Procesos de Manufactura
+Dinámica de Sistemas Mecánicos
+Investigación o Proyecto
+Departamento de Ingeniería en Minería
+Departamento de Ingeniería de Transportes y Logística
+(N289) Ingeniería Minera Vs.01 (Desde admisión 2019)
+19.1 Mínimos
+IMM2013
+IMM2023
+IMM2043
+IMM2003
+ICE2623
+Minería a Cielo Abierto
+Procesos Mineralúrgicos
+Minería Subterránea
+Geología Minera
+Introducción a la Geología Física
+19.2 Optativos
+Elegir 10 cr entre (b):
+IMM2033
+IMM2053
+IMM2073
+IMM2985
+IMM2986
+IMM2987
+Geoestadística
+Procesos Metalúrgicos
+Minería Sustentable 
+Investigacion o Proyecto 
+Departamento de Ingeniería Industrial y de Sistemas
+(N200) Ingeniería Industrial  Vs.01
+19.1 Mínimos
+ICS1113 o
+ICS113H
+ICS2123
+ICS2523
+ICS2613
+ICS2813
+Optimización
+Optimización-Honors 
+Modelos Estocásticos
+Microeconomía
+Contabilidad y Control de Gestión
+Organización y Comportamiento en la Empresa
+19.3 Optativos Complementarios (b)
+ICS2121
+ICS2133
+ICS2562
+ICS2803
+IIC2233 o
+IIC2115
+Métodos de Optimización
+Fundamentos de Simulación de Sistemas Estocásticos
+Econometría Aplicada
+Gobiernos Corporativos
+Programación Avanzada
+Programación Como Herramienta para Ingeniería
+Departamento de Ingeniería Química y Bioprocesos
+(N229) Ingeniería Química Vs.02 (Desde admisión 2018)
+19.1 Mínimos
+QIM106A
+IIQ2003
+IIQ2043
+IIQ2133
+QIM200
+Química Inorgánica I
+Fenómenos de Transporte
+Fisicoquímica
+Procesos Químicos
+Química Orgánica Fundamental
+19.3 Optativos Complementarios (b)
+IIQ2013
+IIQ2023
+Operaciones Unitarias I
+Operaciones Unitarias II
+Ingeniería Biológica
+(N235) Fundamentos de Ingeniería Biológica Vs.02  (Desde admisión 2018)
+19.1 Mínimos
+BIO141C
+BIO151E
+IIQ2663
+IIQ2693
+QIM200
+Biología de la Célula
+Biología de Microorganismos
+Fundamentos de Biotecnología
+Biotecnología Molecular
+Química Orgánica Fundamental
+19.3 Optativos Complementarios (b)
+BIO228C
+BIO297C
+IIQ2133
+IIQ2043
+Bioquímica y Genética Molecular
+Laboratorio Bioquimica, Biologia Celular 
+Procesos Químicos
+Fisicoquímica
+Optimización
+Flujo en Redes
+Ingeniería de Sistemas de Transporte
+Modelos de Demanda de Transporte
+Modelos de Tráfico
+Tecnología de Medios de Transporte
+(N682) Sistemas de Transporte Vs.01
+19.1 Mínimos
+ICS1113
+ICT2233
+ICT2904
+19.2 Optativos (b)
+ICT2213
+ICT2223
+ICT2303
+ICT2443 o
+ICT3443
+ICT2985
+ICT2986
+ICT2987
+IIC2115
+Ingeniería Logística
+Investigacion o Proyecto 
+Programación Como Herramienta para Ingeniería
+(N730) Externalidades de Transporte Vs.01 (c)
+19.1 Mínimos
+ICS1113
+ICS2523
+ICT2904
+IIQ2343
+ICT2253
+Optimización
+Microeconomía
+Ingeniería de Sistemas de Transporte
+Contaminación Atmosférica
+Externalidades de Transporte
+19.2 Optativos Complementarios (b)
+ICH2304
+ICT2213
+ICT2223
+ICT2233
+ICT2303
+ICT3103
+ICT3244
+ICT2985
+ICT2986
+ICT2987
+IIC2115
+Ingeniería Ambiental
+Modelos de Demanda de Transporte
+Modelos de Tráfico
+Flujo en Redes
+Tecnología de Medios de Transporte
+Economía de Transporte
+Modelos Econométricos en Ingeniería
+Investigacion o Proyecto 
+Programación Como Herramienta para Ingeniería
+Optimización
+Modelos Estocásticos
+Flujo en Redes
+Ingeniería de Sistemas de Transporte
+(N201) Logística y Transporte de Carga Vs.01
+19.1 Mínimos
+ICS1113
+ICS2123
+ICT2233
+ICT2904
+19.2 Optativos (b)
+ICS3223
+ICS2133 o Fundamentos de Simulación de Sistemas Estocásticos
+ICS3723
+Gestión Logística 
+Simulación
+ICT2443
+ICT3443
+ICT2303
+ICT3463
+ICT3352
+ICT3454
+ICT3464
+ICT2985
+ICT2986
+ICT2987
+IIC2115
+Ingeniería Logística
+Tecnología de Medios de Transporte
+Métodos Avanzados para Sistemas de Transporte y Logística10
+Teoría de Colas (d)
+Análisis de Sistemas Logísticos (d)
+Ruteo de Vehiculos 
+Investigacion o Proyecto 
+Programación Como Herramienta para Ingeniería
+Ingeniería Matemática
+Cálculo Científico I
+Análisis Real
+(N205) Matemáticas Aplicadas Vs.01
+19.1 Mínimos
+MAT2605
+MAT251I
+19.2 Optativos
+EYP2114
+EYP280I
+ICS1113 o
+ICS113H
+IIC1253
+IMT2111
+IMT2112
+IMT2113
+IMT2115
+MAT250I
+MAT2205
+MAT2305
+MAT2415
+MAT2545
+MAT255I
+MAT270I
+MAT253I
+MAT2615
+Inferencia Estadística
+Métodos Bayesianos
+Optimización
+Optimización-Honors 
+Matemáticas Discretas
+Álgebra Lineal Numérica
+Algoritmos Paralelos en Computación Científica
+Análisis de Fourier Aplicado
+Control de Sistemas Lineales
+Ecuaciones Diferenciales Parciales
+Álgebra Abstracta I
+Geometría Diferencial
+Lógica
+Topología
+Análisis Funcional
+Variable Compleja I
+Teoría de Integración
+Calculo Cientifico II 
+(N206) Ingeniería Matemática Vs.01
+19.1 Mínimos
+MAT2605
+MAT251I
+IIC1253
+MAT253I
+EYP2114
+Cálculo Científico I
+Análisis Real
+Matemáticas Discretas
+Teoría de Integración
+Inferencia Estadística
+Optativos Complementarios (b): 
+ICS113H
+IIC2233
+IMT2111
+IMT2112
+IMT2113
+IMT2115
+MAT255I
+MAT2615
+Optimización-Honors 
+Programación Avanzada
+Álgebra Lineal Numérica
+Algoritmos Paralelos en Computación Científica
+Análisis de Fourier Aplicado
+Control de Sistemas Lineales
+Análisis Funcional
+Calculo Cientifico II 
+Departamento de Ingeniería Eléctrica
+(N344) Ingeniería Eléctrica Vs.02  (Desde admisión 2020)
+19.1 Mínimos
+IEE2103
+IEE2123
+IEE2713
+IEE2613
+Elegir 10 cr entre:
+IEE2XXX
+Señales y Sistemas
+Circuitos Eléctricos
+Sistemas Digitales
+Control Automático
+Cualquier curso IEE nivel 2000
+19.3 Optativos Complementarios (b)
+IEE2XXX
+Cualquier curso IEE nivel 2000
+Departamento de Ingeniería y Gestión de la Construcción
+(N231) Ingeniería de Construcción Vs.02 (Desde admisión 2018)
+19.1 Mínimos
+ICC2105 Materiales de Ingeniería Civil
+ICC2204
+ICC2304
+Planificación y Control de Proyectos
+Ingeniería de Construcción
+19.2 Optativos
+Elegir 20 cr entre:
+ICE2006
+ICE2313
+ICE2604
+ICC2424
+ICC2514
+Estática
+Mecánica de Sólidos
+Fundamentos de Geotecnia
+Construcción de Obras Civiles
+Ingeniería Vial
+19.3 Optativos Complementarios (b)
+ICC2454
+ICC2414
+ICC2354
+ICC3464
+ICC3470
+ICC2312
+ICC2913
+Diseño y Construccion en Madera
+Topografía y Geoinformación Aplicada
+Diseño de Edificios Sustentables
+Sustentabilidad en la Construcción
+Construcción Avanzada de Túneles 
+Instalaciones en Edificios
+Tecnologias de Informacion en Construccion
+(N242) Innovación Tecnológica Vs.01
+19.1 Mínimos
+IDI2031
+ICS2031
+Prototipado y Validación de Innovaciones Tecnológicas 
+Estrategia y Comercialización de Innovaciones 
+Tecnológicas 
+Financiamiento y Creación de Start-Ups 
+Vigilancia Tecnológica e Inteligencia Competitiva 
+Propiedad Intelectual y Transferencia Tecnológica 
+ICS2032
+ING2031
+DEM298
+19.2 Optativos, aprobar 10 cr. (e)
+Investigación o Proyecto
+Trabajo Personal Dirigido(*)
+Otro curso Tecnológico de Profundización
